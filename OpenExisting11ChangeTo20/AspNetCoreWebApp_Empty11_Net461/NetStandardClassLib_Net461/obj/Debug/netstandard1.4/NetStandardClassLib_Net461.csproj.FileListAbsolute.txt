@@ -1,0 +1,7 @@
+c:\users\fwtlabb\documents\visual studio 2017\Projects\AspNetCoreWebApp_Empty11_Net461\NetStandardClassLib_Net461\bin\Debug\netstandard1.4\NetStandardClassLib_Net461.deps.json
+c:\users\fwtlabb\documents\visual studio 2017\Projects\AspNetCoreWebApp_Empty11_Net461\NetStandardClassLib_Net461\bin\Debug\netstandard1.4\NetStandardClassLib_Net461.dll
+c:\users\fwtlabb\documents\visual studio 2017\Projects\AspNetCoreWebApp_Empty11_Net461\NetStandardClassLib_Net461\bin\Debug\netstandard1.4\NetStandardClassLib_Net461.pdb
+c:\users\fwtlabb\documents\visual studio 2017\Projects\AspNetCoreWebApp_Empty11_Net461\NetStandardClassLib_Net461\obj\Debug\netstandard1.4\NetStandardClassLib_Net461.csprojResolveAssemblyReference.cache
+c:\users\fwtlabb\documents\visual studio 2017\Projects\AspNetCoreWebApp_Empty11_Net461\NetStandardClassLib_Net461\obj\Debug\netstandard1.4\NetStandardClassLib_Net461.AssemblyInfo.cs
+c:\users\fwtlabb\documents\visual studio 2017\Projects\AspNetCoreWebApp_Empty11_Net461\NetStandardClassLib_Net461\obj\Debug\netstandard1.4\NetStandardClassLib_Net461.dll
+c:\users\fwtlabb\documents\visual studio 2017\Projects\AspNetCoreWebApp_Empty11_Net461\NetStandardClassLib_Net461\obj\Debug\netstandard1.4\NetStandardClassLib_Net461.pdb
