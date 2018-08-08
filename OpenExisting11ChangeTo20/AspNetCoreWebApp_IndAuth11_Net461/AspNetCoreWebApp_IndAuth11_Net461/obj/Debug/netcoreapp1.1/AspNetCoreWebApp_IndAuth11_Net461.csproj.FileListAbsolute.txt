@@ -1,0 +1,12 @@
+c:\users\fwtlabb\documents\visual studio 2017\Projects\AspNetCoreWebApp_IndAuth11_Net461\AspNetCoreWebApp_IndAuth11_Net461\bin\Debug\netcoreapp1.1\AspNetCoreWebApp_IndAuth11_Net461.deps.json
+c:\users\fwtlabb\documents\visual studio 2017\Projects\AspNetCoreWebApp_IndAuth11_Net461\AspNetCoreWebApp_IndAuth11_Net461\bin\Debug\netcoreapp1.1\AspNetCoreWebApp_IndAuth11_Net461.runtimeconfig.json
+c:\users\fwtlabb\documents\visual studio 2017\Projects\AspNetCoreWebApp_IndAuth11_Net461\AspNetCoreWebApp_IndAuth11_Net461\bin\Debug\netcoreapp1.1\AspNetCoreWebApp_IndAuth11_Net461.runtimeconfig.dev.json
+c:\users\fwtlabb\documents\visual studio 2017\Projects\AspNetCoreWebApp_IndAuth11_Net461\AspNetCoreWebApp_IndAuth11_Net461\bin\Debug\netcoreapp1.1\AspNetCoreWebApp_IndAuth11_Net461.dll
+c:\users\fwtlabb\documents\visual studio 2017\Projects\AspNetCoreWebApp_IndAuth11_Net461\AspNetCoreWebApp_IndAuth11_Net461\bin\Debug\netcoreapp1.1\AspNetCoreWebApp_IndAuth11_Net461.pdb
+c:\users\fwtlabb\documents\visual studio 2017\Projects\AspNetCoreWebApp_IndAuth11_Net461\AspNetCoreWebApp_IndAuth11_Net461\bin\Debug\netcoreapp1.1\NeStandardClassLib_Net461.dll
+c:\users\fwtlabb\documents\visual studio 2017\Projects\AspNetCoreWebApp_IndAuth11_Net461\AspNetCoreWebApp_IndAuth11_Net461\bin\Debug\netcoreapp1.1\NeStandardClassLib_Net461.pdb
+c:\users\fwtlabb\documents\visual studio 2017\Projects\AspNetCoreWebApp_IndAuth11_Net461\AspNetCoreWebApp_IndAuth11_Net461\obj\Debug\netcoreapp1.1\AspNetCoreWebApp_IndAuth11_Net461.csprojResolveAssemblyReference.cache
+c:\users\fwtlabb\documents\visual studio 2017\Projects\AspNetCoreWebApp_IndAuth11_Net461\AspNetCoreWebApp_IndAuth11_Net461\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+c:\users\fwtlabb\documents\visual studio 2017\Projects\AspNetCoreWebApp_IndAuth11_Net461\AspNetCoreWebApp_IndAuth11_Net461\obj\Debug\netcoreapp1.1\AspNetCoreWebApp_IndAuth11_Net461.AssemblyInfo.cs
+c:\users\fwtlabb\documents\visual studio 2017\Projects\AspNetCoreWebApp_IndAuth11_Net461\AspNetCoreWebApp_IndAuth11_Net461\obj\Debug\netcoreapp1.1\AspNetCoreWebApp_IndAuth11_Net461.dll
+c:\users\fwtlabb\documents\visual studio 2017\Projects\AspNetCoreWebApp_IndAuth11_Net461\AspNetCoreWebApp_IndAuth11_Net461\obj\Debug\netcoreapp1.1\AspNetCoreWebApp_IndAuth11_Net461.pdb

@@ -1,0 +1,4 @@
+c:\users\v-huyi.fareast\documents\visual studio 2013\Projects\Mvc5IndCs1\ClassLibraryCs1\bin\Debug\ClassLibraryCs1.dll
+c:\users\v-huyi.fareast\documents\visual studio 2013\Projects\Mvc5IndCs1\ClassLibraryCs1\bin\Debug\ClassLibraryCs1.pdb
+c:\users\v-huyi.fareast\documents\visual studio 2013\Projects\Mvc5IndCs1\ClassLibraryCs1\obj\Debug\ClassLibraryCs1.dll
+c:\users\v-huyi.fareast\documents\visual studio 2013\Projects\Mvc5IndCs1\ClassLibraryCs1\obj\Debug\ClassLibraryCs1.pdb
