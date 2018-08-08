@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp_NetFramework_Ind11_OnNet461", "WebApp_NetFramework_Ind11_OnNet461\WebApp_NetFramework_Ind11_OnNet461.csproj", "{9936DBEF-4CDE-4B6F-A3E9-274D11F737A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetStandardClassLib_OnNet461", "NetStandardClassLib_OnNet461\NetStandardClassLib_OnNet461.csproj", "{89E2AE46-723B-43CC-9E77-C795475B172A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9936DBEF-4CDE-4B6F-A3E9-274D11F737A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9936DBEF-4CDE-4B6F-A3E9-274D11F737A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9936DBEF-4CDE-4B6F-A3E9-274D11F737A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9936DBEF-4CDE-4B6F-A3E9-274D11F737A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89E2AE46-723B-43CC-9E77-C795475B172A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E2AE46-723B-43CC-9E77-C795475B172A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E2AE46-723B-43CC-9E77-C795475B172A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E2AE46-723B-43CC-9E77-C795475B172A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
