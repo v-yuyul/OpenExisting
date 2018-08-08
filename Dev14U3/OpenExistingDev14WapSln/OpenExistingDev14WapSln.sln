@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIWithIndAuthCs", "WebA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI.tests", "WebAPI.tests\WebAPI.tests.csproj", "{6259AA32-761B-4E65-B1EF-FC20F3589A6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC5WithIndCs", "MVC5WithIndCs\MVC5WithIndCs.csproj", "{D14DA0F8-2C93-49B1-B8DD-69BD13C374BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6259AA32-761B-4E65-B1EF-FC20F3589A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6259AA32-761B-4E65-B1EF-FC20F3589A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6259AA32-761B-4E65-B1EF-FC20F3589A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D14DA0F8-2C93-49B1-B8DD-69BD13C374BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14DA0F8-2C93-49B1-B8DD-69BD13C374BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14DA0F8-2C93-49B1-B8DD-69BD13C374BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14DA0F8-2C93-49B1-B8DD-69BD13C374BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
