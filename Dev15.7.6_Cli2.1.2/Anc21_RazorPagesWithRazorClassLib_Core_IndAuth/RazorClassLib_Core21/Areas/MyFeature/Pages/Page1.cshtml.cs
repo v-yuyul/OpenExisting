@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace RazorClassLib.MyFeature.Pages
+namespace RazorClassLib_Core21.MyFeature.Pages
 {
     public class Page1Model : PageModel
     {
