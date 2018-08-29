@@ -8,7 +8,7 @@
 *.user
 *.userosscache
 *.sln.docstates
-£¡/Dev15.7.6_Cli2.1.2/Anc21_RazorPagesWithRazorClassLib_Core_IndAuth
+!/Dev15.7.6_Cli2.1.2/Anc21_RazorPagesWithRazorClassLib_Core_IndAuth
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
