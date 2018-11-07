@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net461</TargetFramework>
-    <UserSecretsId>aspnet-Fw21IndAuth-3603D9AB-A003-4FA1-963C-32BBE8214958</UserSecretsId>
+    <UserSecretsId>aspnet-Fw21IndAuth-E34ED7CF-52F0-47FB-95DC-6B841DAC0CBA</UserSecretsId>
     <DebugType>full</DebugType>
   </PropertyGroup>
 
