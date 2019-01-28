@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Web.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using MVC4IndNET45;
-using MVC4IndNET45.Controllers;
+using Mvc4IndNet45;
+using Mvc4IndNet45.Controllers;
 
-namespace MVC4IndNET45.Tests.Controllers
+namespace Mvc4IndNet45.Tests.Controllers
 {
     [TestClass]
     public class HomeControllerTest
@@ -22,7 +22,7 @@ namespace MVC4IndNET45.Tests.Controllers
             ViewResult result = controller.Index() as ViewResult;
 
             // Assert
-            Assert.IsNotNull(result);
+            Assert.AreEqual("Modify this template to jump-start your ASP.NET MVC application.", result.ViewBag.Message);
         }
 
         [TestMethod]
@@ -35,7 +35,7 @@ namespace MVC4IndNET45.Tests.Controllers
             ViewResult result = controller.About() as ViewResult;
 
             // Assert
-            Assert.AreEqual("Your application description page.", result.ViewBag.Message);
+            Assert.IsNotNull(result);
         }
 
         [TestMethod]
